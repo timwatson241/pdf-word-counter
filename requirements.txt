@@ -1,0 +1,5 @@
+certifi==2020.12.5
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+pdf2image==1.14.0
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1615244150546/work
+pytesseract @ file:///home/conda/feedstock_root/build_artifacts/pytesseract_1605866581960/work
